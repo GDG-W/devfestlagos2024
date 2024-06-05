@@ -1,1 +1,1 @@
-# devfestlagos2024
+devfest lagos 2024
