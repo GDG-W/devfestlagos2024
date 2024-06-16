@@ -4,6 +4,10 @@ import { Layout } from "./components/Layout/Layout";
 import { ShareComp } from "./components/Share/Share";
 import { NotFound } from "./components/Notfound/Notfound";
 
+import ReactGA from 'react-ga4';
+
+ReactGA.initialize('G-PGQDSTV0T7');
+
 function App() {
   const location = useLocation();
   return (
